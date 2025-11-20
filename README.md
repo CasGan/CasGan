@@ -1,9 +1,6 @@
 # Hello There👋, I'm Cassandra 
 ### ✨Intrigued by all things tech and on a journey to hone my Computer Science skills. ✨
-
-Join the Ride
-[title](https://tenor.com/bKvOI.gif)
-
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFvYXVvYTdzdm5pajJoejgydTRvYXhqOGwzZzBxYTZmZDZ6YWFpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9CwMia6QbZuw/giphy.gif)
 Quick Breakdown 
 <!--
 **CasGan/CasGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
