@@ -1,4 +1,5 @@
-# My Profile 👋 ### ✨WELCOME✨
+# Hello There👋, I'm CasGan 
+### ✨A passionate Computer Scientist on a journey to explore the world of code. ✨
 
 <!--
 **CasGan/CasGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
