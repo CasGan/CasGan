@@ -17,15 +17,12 @@
 <h1 align="center">Hi 👋, I'm CasGan</h1>
 <h3 align="center">Intrigued by all things tech and on a journey to hone my Computer Science skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casgan&label=Profile%20views&color=0e75b6&style=flat" alt="casgan" /> </p>
-
 - 🔭 I’m currently working on **improving my UI skills and creativity**
 
 - 🌱 I’m currently learning **how to create 3D web applications**
 
 - 👯 I’m looking to collaborate on **coding projects, especially full stack web pages**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -36,3 +33,5 @@
 <p align='center'>
   <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFvYXVvYTdzdm5pajJoejgydTRvYXhqOGwzZzBxYTZmZDZ6YWFpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9CwMia6QbZuw/giphy.gif'/>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=casgan&label=Profile%20views&color=0e75b6&style=flat" alt="casgan" /> </p>
