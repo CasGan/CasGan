@@ -14,11 +14,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi folks!👋 />, I'm CasGan</h1>
+<h1 align="center">Hi folks!👋 />, I'm CasGan</h1> 
 <h3 align="center">Intrigued by all things tech and on a journey to hone my Computer Science skills.</h3>
 
-- 🔭 I’m currently working on **improving my UI skills and creativity**
-    *Currently I am working on fixing up my documentation and cleaning up my repos to make them presentable.*
+- 🔭 I’m currently working on **improving my UI skills and creativity** <br/>
+   <sub> *Currently I am working on fixing up my documentation and cleaning up my repos to make them presentable.* </sub>
 
 - 🌱 I’m currently learning **how to create 3D web applications**
 
