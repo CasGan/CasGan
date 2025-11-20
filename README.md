@@ -2,7 +2,7 @@
 ### ✨Intrigued by all things tech and on a journey to hone my Computer Science skills. ✨
 
 Join the Ride
-<div class="tenor-gif-embed" data-postid="23439382" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/clockwork-orange-eyes-gif-23439382">Clockwork Orange Eyes GIF</a>from <a href="https://tenor.com/search/clockwork+orange+eyes-gifs">Clockwork Orange Eyes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[title](https://tenor.com/bKvOI.gif)
 
 Quick Breakdown 
 <!--
