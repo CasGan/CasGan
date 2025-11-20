@@ -14,14 +14,14 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi <img src='assets/shaka.gif'/>, I'm CasGan</h1>
+<h1 align="center">Hi folks!👋 />, I'm CasGan</h1>
 <h3 align="center">Intrigued by all things tech and on a journey to hone my Computer Science skills.</h3>
 
 - 🔭 I’m currently working on **improving my UI skills and creativity**
 
 - 🌱 I’m currently learning **how to create 3D web applications**
 
-- 👯 I’m looking to collaborate on **coding projects, especially full stack web pages**
+- 👯 I’m looking to collaborate on **coding projects**
 
 <p align="left">
 </p>
