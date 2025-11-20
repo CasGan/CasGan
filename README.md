@@ -1,9 +1,12 @@
-# Hello There👋, I'm CasGan 
-### ✨A passionate Computer Scientist on a journey to explore the world of code. ✨
+# Hello There👋, I'm Cassandra 
+### ✨Intrigued by all things tech and on a journey to hone my Computer Science skills. ✨
 
+Join the Ride
+<div class="tenor-gif-embed" data-postid="23439382" data-share-method="host" data-aspect-ratio="1.66667" data-width="100%"><a href="https://tenor.com/view/clockwork-orange-eyes-gif-23439382">Clockwork Orange Eyes GIF</a>from <a href="https://tenor.com/search/clockwork+orange+eyes-gifs">Clockwork Orange Eyes GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+Quick Breakdown 
 <!--
 **CasGan/CasGan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
