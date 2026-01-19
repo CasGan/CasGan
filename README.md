@@ -35,5 +35,3 @@
 <p align='center'>
   <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFvYXVvYTdzdm5pajJoejgydTRvYXhqOGwzZzBxYTZmZDZ6YWFpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9CwMia6QbZuw/giphy.gif'/>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casgan&label=Profile%20views&color=0e75b6&style=flat" alt="casgan" /> </p>
